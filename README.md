@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 <img width="104" height="104" alt="image" src="https://github.com/user-attachments/assets/bd4ced19-2390-4f77-b201-33ecb50abe47" />
 
 [![NoScopeRCE](https://cdn-images.tryhackme.com/daafef086a8e6efb9505164d81bf9073.png)](https://tryhackme.com/GhostXX44/badges/noscoperce)
+<img width="425" height="500" alt="image" src="https://github.com/user-attachments/assets/7f65472c-2c8f-4339-91a7-482583131e20" />
 
+https://tryhackme.com/GhostXX44/badges/adventofcyber4?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=65e961fdc161d3b4567491f7
 ---
 
 ### 🛠️ Featured Project
