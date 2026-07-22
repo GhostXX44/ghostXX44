@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 
 [![NoScopeRCE](https://cdn-images.tryhackme.com/daafef086a8e6efb9505164d81bf9073.png)](https://tryhackme.com/GhostXX44/badges/noscoperce)
 
-https://tryhackme.com/GhostXX44/badges/adventofcyber4?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=65e961fdc161d3b4567491f7
 ---
 
 ### 🛠️ Featured Project
