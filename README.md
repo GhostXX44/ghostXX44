@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 ---
 
 ### 🏆 Badges
+<img width="104" height="104" alt="image" src="https://github.com/user-attachments/assets/bd4ced19-2390-4f77-b201-33ecb50abe47" />
+
 [![NoScopeRCE](https://cdn-images.tryhackme.com/daafef086a8e6efb9505164d81bf9073.png)](https://tryhackme.com/GhostXX44/badges/noscoperce)
 
 ---
