@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Terminal Typing Intro Anim -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+GhostXX44;Cybersecurity+Enthusiast;Breaking+systems+to+make+them+stronger" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+GhostXX44;Cybersecurity+Enthusiast; Breaking+systems+to+make+them+stronger" alt="Typing SVG" />
 
 <p align="center">
   <code>HOST: GhostXX44</code> • 
