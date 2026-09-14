@@ -13,6 +13,11 @@
 
 <hr size="1" color="#00FF41">
 </div>
+<div align="center">
+  <img src="./assets/IMG_5842_GitHub_optimized.gif"
+       width="300"
+       alt="GhostXX44 Live Wallpaper">
+</div>
 
 ## 🖥️ $ whoami
 ```yaml
