@@ -76,26 +76,3 @@ $ python3 password_audit.py --target hashes.txt --wordlist rockyou.txt
 ```
 
 ---
-
-## 📊 $ running --diagnostics
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GhostXX44&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="GitHub Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostXX44&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" alt="Top Langs" />
-
-</div>
-
-## 🦆 $ ./contribution_duck.sh
-<div align="center">
-
-<img alt="duck eating contributions animation" src="https://raw.githubusercontent.com/GhostXX44/GhostXX44/main/assets/hacker_duck_contributions.svg" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <hr size="1" color="#00FF41">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%E2%98%A0%EF%B8%8F+SESSION+END%3A+LEAVE+A+STAR+BEFORE+EXIT+%E2%98%A0%EF%B8%8F" alt="Typing SVG Footer" />
-</div>
