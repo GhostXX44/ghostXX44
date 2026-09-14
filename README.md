@@ -76,3 +76,9 @@ $ python3 password_audit.py --target hashes.txt --wordlist rockyou.txt
 ```
 
 ---
+<h3>☠️ $ exit</h3>
+
+<pre>
+<span style="color:#00ff41">SESSION END: Thanks for exploring.
+LEAVE A ⭐ BEFORE YOU GO.</span>
+</pre>
