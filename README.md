@@ -76,9 +76,8 @@ $ python3 password_audit.py --target hashes.txt --wordlist rockyou.txt
 ```
 
 ---
-<h3>☠️ $ exit</h3>
+<div align="center">
 
-<pre>
-<span style="color:#00ff41">SESSION END: Thanks for exploring.
-LEAVE A ⭐ BEFORE YOU GO.</span>
-</pre>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%E2%98%A0+SESSION+END%3A+LEAVE+A+STAR+BEFORE+YOU+GO+%E2%98%85" alt="Session End" />
+
+</div>
