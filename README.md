@@ -1,45 +1,105 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GhostXX44/ghostXX44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Terminal Typing Intro Anim -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+GhostXX44;Cybersecurity+Enthusiast;Breaking+systems+to+make+them+stronger" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+<p align="center">
+  <code>HOST: GhostXX44</code> • 
+  <code>STATUS: Active</code> • 
+  <code>SHELL: Zsh</code>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 🔐 Cybersecurity Enthusiast | Breaking systems to make them stronger
-### 🛡️ Defender of Networks | Explorer of Vulnerabilities
-> 💀 "Trust me, I'm not a black hat."
+<img src="https://komarev.com/ghpvc/?username=GhostXX44&color=00FF41&style=for-the-badge&label=VISITORS" alt="Visitor Count" />
+
+<hr size="1" color="#00FF41">
+</div>
+
+## 🖥️ $ whoami
+```yaml
+User: GhostXX44
+Role: Cybersecurity Enthusiast | Breaking systems to make them stronger
+Focus: Defender of Networks | Explorer of Vulnerabilities
+Motto: "Trust me, I'm not a black hat." 💀
+```
+
+## 📟 $ neofetch
+```yaml
+OS: Kali Linux x86_64
+Host: GhostXX44
+Kernel: 6.6.0-cyberpunk
+Shell: zsh 5.9
+Terminal: alacritty
+Focus: VAPT · AppSec · Threat Analysis
+Status: [ ONLINE ]
+```
+
+## 🛠️ $ ./show_weapons_of_choice.sh
+
+<img src="https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/Linux-00FF41?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Bash-00FF41?style=for-the-badge&logo=gnubash&logoColor=black" />
+<img src="https://img.shields.io/badge/Burp%20Suite-00FF41?style=for-the-badge&logo=burpsuite&logoColor=black" />
 
 ---
 
-### 🌐 Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/proxyy0000/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-kunwar/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@proxyy)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ghostXXX)
+## 🌐 $ cat establish_connection.json
+<br/>
+
+[![Instagram](https://img.shields.io/badge/Instagram-00FF41?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/proxyy0000/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/tushar-kunwar/)
+[![Medium](https://img.shields.io/badge/Medium-00FF41?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@proxyy)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-00FF41?style=for-the-badge&logo=tryhackme&logoColor=black)](https://tryhackme.com/p/GhostXX44)
+
+<br/>
 
 ---
 
-### 🏆 Badges
-<img width="104" height="104" alt="image" src="https://github.com/user-attachments/assets/bd4ced19-2390-4f77-b201-33ecb50abe47" />
+## 🏆 $ ls -la --classified accomplishments/
+#### Target Overrun: NoScope RCE Room Completed Successfully
 
-[![NoScopeRCE](https://cdn-images.tryhackme.com/daafef086a8e6efb9505164d81bf9073.png)](https://tryhackme.com/GhostXX44/badges/noscoperce)
-
----
-
-### 🛠️ Featured Project
-**[password-audit-toolkit](https://github.com/GhostXX44/password-audit-toolkit)**
-A Python-based cybersecurity toolkit for password auditing, cracking, and analysis.
+<div align="left">
+  <a href="https://tryhackme.com/GhostXX44/badges/noscoperce">
+    <img width="110" height="110" alt="TryHackMe NoScopeRCE Badge" src="https://cdn-images.tryhackme.com/daafef086a8e6efb9505164d81bf9073.png" />
+  </a>
+</div>
 
 ---
 
-### 📊 GitHub Stats
-![GhostXX44's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhostXX44&show_icons=true&theme=radical)
+## 📂 $ cat featured_payload.md
+### 🛡️ **[password-audit-toolkit](https://github.com/GhostXX44/password-audit-toolkit)**
+> *A modular, high-performance Python-based cybersecurity toolkit deployed for password auditing, automated cryptographic cracking, and credential vulnerability analysis.*
+
+```bash
+$ python3 password_audit.py --target hashes.txt --wordlist rockyou.txt
+[+] Analyzing target hashes...
+[+] System vulnerability verification in progress...
+```
+
+---
+
+## 📊 $ running --diagnostics
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GhostXX44&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="GitHub Stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostXX44&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" alt="Top Langs" />
+
+</div>
+
+## 🐍 $ ./contribution_snake.sh
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GhostXX44/GhostXX44/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GhostXX44/GhostXX44/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/GhostXX44/GhostXX44/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <hr size="1" color="#00FF41">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%E2%98%A0%EF%B8%8F+SESSION+END%3A+LEAVE+A+STAR+BEFORE+EXIT+%E2%98%A0%EF%B8%8F" alt="Typing SVG Footer" />
+</div>
