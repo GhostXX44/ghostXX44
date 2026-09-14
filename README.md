@@ -85,17 +85,11 @@ $ python3 password_audit.py --target hashes.txt --wordlist rockyou.txt
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostXX44&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" alt="Top Langs" />
 
 </div>
+
 ## 🦆 $ ./contribution_duck.sh
 <div align="center">
 
 <img alt="duck eating contributions animation" src="https://raw.githubusercontent.com/GhostXX44/GhostXX44/main/assets/hacker_duck_contributions.svg" width="100%" />
-
-</div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GhostXX44/GhostXX44/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GhostXX44/GhostXX44/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/GhostXX44/GhostXX44/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
