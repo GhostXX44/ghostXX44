@@ -65,6 +65,11 @@ Status: [ ONLINE ]
 <a href="https://tryhackme.com/GhostXX44/badges/noscoperce">
   <img src="https://assets.tryhackme.com/img/badges/noscoperce.svg" alt="TryHackMe NoScopeRCE Badge" width="150" />
 </a>
+
+<br>
+
+**Cisco Networking Academy: Introduction to Cybersecurity (Verified)**
+
 <a href="https://www.credly.com/badges/6550f02e-55a0-4d2a-bc04-929bea66481f">
   <img src="introduction-to-cybersecurity.png" alt="Cisco Introduction to Cybersecurity Badge" width="150" />
 </a>
