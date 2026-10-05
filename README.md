@@ -71,7 +71,7 @@ Status: [ ONLINE ]
 **Cisco Networking Academy: Introduction to Cybersecurity (Verified)**
 
 <a href="https://www.credly.com/badges/6550f02e-55a0-4d2a-bc04-929bea66481f">
-  <img src="introduction-to-cybersecurity.png" alt="Cisco Introduction to Cybersecurity Badge" width="150" />
+  <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Cisco Introduction to Cybersecurity Badge" width="150" />
 </a>
 
 ---
