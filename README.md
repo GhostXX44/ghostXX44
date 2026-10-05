@@ -64,7 +64,7 @@ Status: [ ONLINE ]
 **Target Overrun: NoScope RCE Room Completed Successfully**
 
 <a href="https://tryhackme.com/GhostXX44/badges/noscoperce">
-  <img src="<img width="104" height="104" alt="image" src="https://github.com/user-attachments/assets/e5747e53-7ffe-400d-aff8-9d0d8669fa5b" />
+  <img src="https://assets.tryhackme.com/img/badges/noscoperce.svg" />
 " alt="TryHackMe NoScopeRCE Badge" width="150" />
 </a>
 
