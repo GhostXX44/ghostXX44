@@ -60,13 +60,12 @@ Status: [ ONLINE ]
 ---
 
 ## 🏆 $ ls -la --classified accomplishments/
-#### Target Overrun: NoScope RCE Room Completed Successfully
 
-<div align="left">
-  <a href="https://tryhackme.com/GhostXX44/badges/noscoperce">
-    <img width="110" height="110" alt="TryHackMe NoScopeRCE Badge" src="https://cdn-images.tryhackme.com/daafef086a8e6efb9505164d81bf9073.png" />
-  </a>
-</div>
+**Target Overrun: NoScope RCE Room Completed Successfully**
+
+<a href="https://tryhackme.com/GhostXX44/badges/noscoperce">
+  <img src="https://cdn-images.tryhackme.com/daafef086a8e6efb9505164d81bf9073.png" alt="TryHackMe NoScopeRCE Badge" width="150" />
+</a>
 
 ---
 
